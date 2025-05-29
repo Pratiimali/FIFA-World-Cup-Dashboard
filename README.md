@@ -18,7 +18,7 @@ An interactive **Tableau** dashboard that visualizes key statistics of the **FIF
 
 ## 👩‍💻 Author
 - Name: Pratiksha Mali
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/pratiksha-mali-b42088221/)
+- LinkedIn: [linkedin.com/in/pratiksha-mali-b42088221](https://www.linkedin.com/in/pratiksha-mali-b42088221/)
 
 ## 📝 Description
 This project was created as part of my data visualization skills development. It demonstrates my ability to use Tableau for building interactive and insightful dashboards. The dataset contains historical World Cup data, including country performance, stadiums, audience attendance, and key matches.
